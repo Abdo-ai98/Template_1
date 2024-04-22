@@ -130,7 +130,7 @@ header .links ul li:not(:last-child) a {
 /* End header */
 /* Start Landing Section */
 .landing {
-  background-image: url(../Images/Landing.jpg);
+  background-image: url(../images/Landing.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
